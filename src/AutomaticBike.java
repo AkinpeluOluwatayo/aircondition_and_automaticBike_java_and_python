@@ -1,6 +1,6 @@
 public class AutomaticBike {
     private String Switch;
-    private String Accelration;
+    private String Acceleration;
 
     //setters and getters
     public void setSwitch(String Switch) {
